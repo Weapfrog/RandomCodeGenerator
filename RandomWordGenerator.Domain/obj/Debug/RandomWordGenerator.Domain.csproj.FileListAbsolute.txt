@@ -1,0 +1,5 @@
+C:\Users\muzga\source\repos\RandomWordGenerator.Domain\bin\Debug\RandomWordGenerator.Domain.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Domain\bin\Debug\RandomWordGenerator.Domain.pdb
+C:\Users\muzga\source\repos\RandomWordGenerator.Domain\obj\Debug\RandomWordGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muzga\source\repos\RandomWordGenerator.Domain\obj\Debug\RandomWordGenerator.Domain.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Domain\obj\Debug\RandomWordGenerator.Domain.pdb
