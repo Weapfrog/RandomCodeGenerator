@@ -1,0 +1,17 @@
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\RandomWordGenerator.Core.dll.config
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\RandomWordGenerator.Core.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\RandomWordGenerator.Core.pdb
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\RandomWordGenerator.Domain.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\RandomWordGenerator.Domain.pdb
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.xml
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\obj\Debug\RandomWordGenerator.Core.csproj.AssemblyReference.cache
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\obj\Debug\RandomWordGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\obj\Debug\RandomWordGenerator.Core.csproj.CopyComplete
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\obj\Debug\RandomWordGenerator.Core.dll
+C:\Users\muzga\source\repos\RandomWordGenerator.Core\obj\Debug\RandomWordGenerator.Core.pdb
